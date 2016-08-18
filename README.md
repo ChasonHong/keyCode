@@ -30,4 +30,8 @@ $(document).on('keyup',function(event) {
 });
 ```
 ### 3、结束语
-###### 本文有任何错误，或有任何疑问，欢迎留言说明[Issues](https://github.com/ChasonHong/keyCode/issues/new)。
+###### 本文有任何错误，或有任何疑问，欢迎留言说明[Issues](https://github.com/ChasonHong/keyCode/issues/new)
+
+###### 这是一个强健的 Javascript 库用于捕获键盘输入和输入的组合键，它没有依赖，压缩只有只有(~3kb) [hotkeys](https://github.com/jaywcjlove/hotkeys)
+
+###### Easy visualizer for JavaScript KeyCodes [Keycodes](https://github.com/wesbos/keycodes)
