@@ -1,0 +1,16 @@
+*.iml
+.ipr
+npm-debug.log
+*.iws
+*~
+~*
+*.diff
+*.patch
+*.DS_Store
+Thumbs.db
+*.swp
+.nojekyll
+.project
+../keyCodeold/.idea
+node_modules
+.*/
